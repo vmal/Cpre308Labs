@@ -1,0 +1,2 @@
+  UID   PID  PPID        F CPU PRI NI       SZ    RSS WCHAN     S             ADDR TTY           TIME CMD
+  502 50530 50529     4006   0  31  0  2461044   1248 -      S                   0 ttys000    0:00.15 -bash
